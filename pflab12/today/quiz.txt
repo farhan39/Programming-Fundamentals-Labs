@@ -1,0 +1,3 @@
+farhan 10 4 5 
+salman 4 7 13
+shaheer 6 13 8
